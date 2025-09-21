@@ -38,6 +38,11 @@ body {
   height: 78px;
   transform: translateY(40px);
 }
+.sps1-m div{
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
 
 .p2-body {
   max-width: 1400px;

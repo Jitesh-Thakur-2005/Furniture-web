@@ -68,7 +68,7 @@ function Nav() {
                 </div>
               </div>
             </div>
-<div className="p3-m-bottom"> <div className="m-bottom-lb"><label htmlFor="">Subtotal</label> <p>Rs. 520,000.00</p></div> </div> <hr /> <div className="bottom-buttons"> <button onClick={()=>{nev('/Cart')}}>Cart</button> <button onClick={()=>{nev('/Checkout')}}>Checkout</button> <button onClick={()=>{nev('/Product_Comparison')}}>Comparison</button> </div> </div>
+<div className="p3-m-bottom"> <div className="m-bottom-lb"><label htmlFor="">Subtotal</label> <p>Rs. 520,000.00</p></div> </div> <hr /> <div className="bottom-buttons"> <button onClick={()=>{nev('/Furniture-web/Cart')}}>Cart</button> <button onClick={()=>{nev('/Furniture-web/Checkout')}}>Checkout</button> <button onClick={()=>{nev('/Furniture-web/Product_Comparison')}}>Comparison</button> </div> </div>
         </div>
       )}
     </nav>

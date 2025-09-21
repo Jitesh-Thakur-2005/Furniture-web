@@ -70,7 +70,7 @@ function Hero() {
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit
             tellus, luctus nec ullamco
           </p>
-          <button onClick={()=>{nev('/Shop')}}>BUY Now</button>
+          <button onClick={()=>{nev('Shop')}}>BUY Now</button>
         </div>
       </div>
 
@@ -98,7 +98,7 @@ function Hero() {
       <div className="hero-s3">
         <h2>Our Products</h2>
         <div className="s3-crds">
-            <div className="crd" onClick={()=>{nev('/Proudct')}}>
+            <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
             {true && <div className="crd-hv">
               <button>Add to cart</button>
               <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -120,7 +120,7 @@ function Hero() {
             <p>Stylish cafe chair</p>
             <b>Rp 2.500.000 <span>Rp 3.500.000</span></b>
           </div>
-            <div className="crd" onClick={()=>{nev('/Proudct')}}>
+            <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
             {true && <div className="crd-hv">
               <button>Add to cart</button>
               <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -142,7 +142,7 @@ function Hero() {
             <p>Stylish cafe chair</p>
             <b>Rp 2.500.000</b>
           </div>
-          <div className="crd" onClick={()=>{nev('/Proudct')}}>
+          <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
             {true && <div className="crd-hv">
               <button>Add to cart</button>
               <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -164,7 +164,7 @@ function Hero() {
             <p>Luxury big sofa</p>
             <b>Rp 7.000.000 <span>Rp 14.000.000</span></b>
           </div>
-            <div className="crd" onClick={()=>{nev('/Proudct')}}>
+            <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
             {true && <div className="crd-hv">
               <button>Add to cart</button>
               <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -186,7 +186,7 @@ function Hero() {
             <p>Outdoor bar table and stool</p>
             <b>Rp 500.000</b>
           </div>
-            <div className="crd" onClick={()=>{nev('/Proudct')}}>
+            <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
             {true && <div className="crd-hv">
               <button>Add to cart</button>
               <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -208,7 +208,7 @@ function Hero() {
             <p>Night lamp</p>
             <b>Rp 1.500.000</b>
           </div>
-            <div className="crd" onClick={()=>{nev('/Proudct')}}>
+            <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
             {true && <div className="crd-hv">
               <button>Add to cart</button>
               <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -230,7 +230,7 @@ function Hero() {
             <p>Small mug</p>
             <b>Rp 150.000 <span>Rp 14.000.000</span></b>
           </div>
-            <div className="crd" onClick={()=>{nev('/Proudct')}}>
+            <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
             {true && <div className="crd-hv">
               <button>Add to cart</button>
               <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -252,7 +252,7 @@ function Hero() {
             <p>Cute bed set</p>
             <b>Rp 7.000.000</b>
           </div>
-            <div className="crd" onClick={()=>{nev('/Proudct')}}>
+            <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
             {true && <div className="crd-hv">
               <button>Add to cart</button>
               <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -275,7 +275,7 @@ function Hero() {
             <b>Rp 500.000</b>
           </div>
         </div>
-        <button onClick={()=>{nev('/Shop')}}>Show More</button>
+        <button onClick={()=>{nev('/Furniture-web/Shop')}}>Show More</button>
       </div>
 
       <div className="hero-s4">

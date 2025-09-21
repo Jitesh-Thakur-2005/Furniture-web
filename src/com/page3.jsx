@@ -113,7 +113,7 @@ function Page3() {
         <div className="p2-s3">
             <h1>Related Products</h1>
             <div className="s3-crds">
-                  <div className="crd" onClick={()=>{nev('/Proudct')}}>
+                  <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
                     {true && <div className="crd-hv">
                         <button>Add to cart</button>
                         <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -135,7 +135,7 @@ function Page3() {
                     <p>Stylish cafe chair</p>
                     <b>Rp 2.500.000</b>
                 </div>
-                  <div className="crd" onClick={()=>{nev('/Proudct')}}>
+                  <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
                     {true && <div className="crd-hv">
                         <button>Add to cart</button>
                         <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -157,7 +157,7 @@ function Page3() {
                     <p>Stylish cafe chair</p>
                     <b>Rp 2.500.000</b>
                 </div>
-                  <div className="crd" onClick={()=>{nev('/Proudct')}}>
+                  <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
                     {true && <div className="crd-hv">
                         <button>Add to cart</button>
                         <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -179,7 +179,7 @@ function Page3() {
                     <p>Luxury big sofa</p>
                     <b>Rp 7.000.000</b>
                 </div>
-                  <div className="crd" onClick={()=>{nev('/Proudct')}}>
+                  <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
                     {true && <div className="crd-hv">
                         <button>Add to cart</button>
                         <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">

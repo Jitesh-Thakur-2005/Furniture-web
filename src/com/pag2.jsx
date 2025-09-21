@@ -47,7 +47,7 @@ function Page2() {
         </div>
         <div className="p2-body">
             <div className="s3-crds">
-                  <div className="crd" onClick={()=>{nev('/Proudct')}}>
+                  <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
                     {true && <div className="crd-hv">
                         <button>Add to cart</button>
                         <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -85,7 +85,7 @@ function Page2() {
                     <p>Stylish cafe chair</p>
                     <b>Rp 2.500.000</b>
                 </div>
-                  <div className="crd" onClick={()=>{nev('/Proudct')}}>
+                  <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
                     {true && <div className="crd-hv">
                         <button>Add to cart</button>
                         <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -107,7 +107,7 @@ function Page2() {
                     <p>Stylish cafe chair</p>
                     <b>Rp 2.500.000</b>
                 </div>
-                  <div className="crd" onClick={()=>{nev('/Proudct')}}>
+                  <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
                     {true && <div className="crd-hv">
                         <button>Add to cart</button>
                         <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -129,7 +129,7 @@ function Page2() {
                     <p>Luxury big sofa</p>
                     <b>Rp 7.000.000</b>
                 </div>
-                  <div className="crd" onClick={()=>{nev('/Proudct')}}>
+                  <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
                     {true && <div className="crd-hv">
                         <button>Add to cart</button>
                         <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -151,7 +151,7 @@ function Page2() {
                     <p>Outdoor bar table and stool</p>
                     <b>Rp 500.000</b>
                 </div>
-                  <div className="crd" onClick={()=>{nev('/Proudct')}}>
+                  <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
                     {true && <div className="crd-hv">
                         <button>Add to cart</button>
                         <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -173,7 +173,7 @@ function Page2() {
                     <p>Night lamp</p>
                     <b>Rp 1.500.000</b>
                 </div>
-                  <div className="crd" onClick={()=>{nev('/Proudct')}}>
+                  <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
                     {true && <div className="crd-hv">
                         <button>Add to cart</button>
                         <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -195,7 +195,7 @@ function Page2() {
                     <p>Small mug</p>
                     <b>Rp 150.000</b>
                 </div>
-                  <div className="crd" onClick={()=>{nev('/Proudct')}}>
+                  <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
                     {true && <div className="crd-hv">
                         <button>Add to cart</button>
                         <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -217,7 +217,7 @@ function Page2() {
                     <p>Cute bed set</p>
                     <b>Rp 7.000.000</b>
                 </div>
-                  <div className="crd" onClick={()=>{nev('/Proudct')}}>
+                  <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
                     {true && <div className="crd-hv">
                         <button>Add to cart</button>
                         <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -241,7 +241,7 @@ function Page2() {
                 </div>
             </div>
             <div className="s3-crds">
-                  <div className="crd" onClick={()=>{nev('/Proudct')}}>
+                  <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
                     {true && <div className="crd-hv">
                         <button>Add to cart</button>
                         <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -263,7 +263,7 @@ function Page2() {
                     <p>Stylish cafe chair</p>
                     <b>Rp 2.500.000</b>
                 </div>
-                  <div className="crd" onClick={()=>{nev('/Proudct')}}>
+                  <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
                     {true && <div className="crd-hv">
                         <button>Add to cart</button>
                         <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -285,7 +285,7 @@ function Page2() {
                     <p>Stylish cafe chair</p>
                     <b>Rp 2.500.000</b>
                 </div>
-                  <div className="crd" onClick={()=>{nev('/Proudct')}}>
+                  <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
                     {true && <div className="crd-hv">
                         <button>Add to cart</button>
                         <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -307,7 +307,7 @@ function Page2() {
                     <p>Luxury big sofa</p>
                     <b>Rp 7.000.000</b>
                 </div>
-                  <div className="crd" onClick={()=>{nev('/Proudct')}}>
+                  <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
                     {true && <div className="crd-hv">
                         <button>Add to cart</button>
                         <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -329,7 +329,7 @@ function Page2() {
                     <p>Outdoor bar table and stool</p>
                     <b>Rp 500.000</b>
                 </div>
-                  <div className="crd" onClick={()=>{nev('/Proudct')}}>
+                  <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
                     {true && <div className="crd-hv">
                         <button>Add to cart</button>
                         <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -351,7 +351,7 @@ function Page2() {
                     <p>Night lamp</p>
                     <b>Rp 1.500.000</b>
                 </div>
-                  <div className="crd" onClick={()=>{nev('/Proudct')}}>
+                  <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
                     {true && <div className="crd-hv">
                         <button>Add to cart</button>
                         <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -373,7 +373,7 @@ function Page2() {
                     <p>Small mug</p>
                     <b>Rp 150.000</b>
                 </div>
-                  <div className="crd" onClick={()=>{nev('/Proudct')}}>
+                  <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
                     {true && <div className="crd-hv">
                         <button>Add to cart</button>
                         <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -395,7 +395,7 @@ function Page2() {
                     <p>Cute bed set</p>
                     <b>Rp 7.000.000</b>
                 </div>
-                  <div className="crd" onClick={()=>{nev('/Proudct')}}>
+                  <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
                     {true && <div className="crd-hv">
                         <button>Add to cart</button>
                         <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -419,7 +419,7 @@ function Page2() {
                 </div>
             </div>
             <div className="s3-crds">
-                  <div className="crd" onClick={()=>{nev('/Proudct')}}>
+                  <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
                     {true && <div className="crd-hv">
                         <button>Add to cart</button>
                         <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -441,7 +441,7 @@ function Page2() {
                     <p>Stylish cafe chair</p>
                     <b>Rp 2.500.000</b>
                 </div>
-                  <div className="crd" onClick={()=>{nev('/Proudct')}}>
+                  <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
                     {true && <div className="crd-hv">
                         <button>Add to cart</button>
                         <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -463,7 +463,7 @@ function Page2() {
                     <p>Stylish cafe chair</p>
                     <b>Rp 2.500.000</b>
                 </div>
-                  <div className="crd" onClick={()=>{nev('/Proudct')}}>
+                  <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
                     {true && <div className="crd-hv">
                         <button>Add to cart</button>
                         <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -485,7 +485,7 @@ function Page2() {
                     <p>Luxury big sofa</p>
                     <b>Rp 7.000.000</b>
                 </div>
-                  <div className="crd" onClick={()=>{nev('/Proudct')}}>
+                  <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
                     {true && <div className="crd-hv">
                         <button>Add to cart</button>
                         <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -507,7 +507,7 @@ function Page2() {
                     <p>Outdoor bar table and stool</p>
                     <b>Rp 500.000</b>
                 </div>
-                  <div className="crd" onClick={()=>{nev('/Proudct')}}>
+                  <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
                     {true && <div className="crd-hv">
                         <button>Add to cart</button>
                         <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -529,7 +529,7 @@ function Page2() {
                     <p>Night lamp</p>
                     <b>Rp 1.500.000</b>
                 </div>
-                  <div className="crd" onClick={()=>{nev('/Proudct')}}>
+                  <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
                     {true && <div className="crd-hv">
                         <button>Add to cart</button>
                         <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -551,7 +551,7 @@ function Page2() {
                     <p>Small mug</p>
                     <b>Rp 150.000</b>
                 </div>
-                  <div className="crd" onClick={()=>{nev('/Proudct')}}>
+                  <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
                     {true && <div className="crd-hv">
                         <button>Add to cart</button>
                         <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -573,7 +573,7 @@ function Page2() {
                     <p>Cute bed set</p>
                     <b>Rp 7.000.000</b>
                 </div>
-                  <div className="crd" onClick={()=>{nev('/Proudct')}}>
+                  <div className="crd" onClick={()=>{nev('/Furniture-web/Proudct')}}>
                     {true && <div className="crd-hv">
                         <button>Add to cart</button>
                         <div className="crd-sher"><label htmlFor=""><svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
